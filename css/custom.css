@@ -1,0 +1,23 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Handling Updates
+-----------------------------------------------------------------*/
+
+module.exports = {
+  theme: {
+    colors: {
+      transparent: 'transparent',
+      current: 'currentColor',
+      'white': '#f8fafc',
+      'red': '#B01320',
+      'midnight': '#020617',
+      'metal': '#565584',
+      'tahiti': '#3ab7bf',
+      'silver': '#ecebff',
+      'bubble-gum': '#ff77e9',
+      'bermuda': '#78dcca',
+    },
+  },
+}
